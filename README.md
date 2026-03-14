@@ -5,5 +5,5 @@ This project performs a comprehensive analysis of **Australian road crash data**
 
 ## Dashboard
 Here's a screenshot of the full dashboard
-Dashboard.png
+![Road Crash Analysis Dashboard](dashboard.png)
 
