@@ -5,5 +5,5 @@ This project performs a comprehensive analysis of **Australian road crash data**
 
 ## Dashboard
 Here's a screenshot of the full dashboard
-https://github.com/Issa-Fathia/road-crash-analysis/blob/main/Dashboard.png
+Dashboard.png
 
