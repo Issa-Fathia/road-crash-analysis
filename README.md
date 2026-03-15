@@ -21,7 +21,15 @@ All visuals are fully interactive with slicers for **Year, Month, Time of Day, S
 ## What This Project Is About
 
 Road crashes are not random. Behind every statistic is a pattern — a time of day, a road type, a demographic, a speed zone. This project digs into **33 years of Australian crash records** (1989–2021) to find those patterns and turn them into clear, visual insights.
-The goal was simple: **To analyse Australian road crash data to find patterns that can improve road safety**.
+
+The goal was simple: **To analyse Australian road crash data to find patterns that can improve road safety.**
+
+More specifically it answers questions like:
+- **Who** is most involved in crashes? — drivers, passengers, pedestrians, gender, age
+- **Where** do most crashes happen? — which states have the highest numbers
+- **When** do crashes happen most? — weekdays vs weekends, time of day, holiday periods
+- **What type** of crashes are most common? — single vehicle vs multiple, speed zones, road types
+- **How has it changed over time?** — are roads getting safer or more dangerous?
 
 ## Dataset
 
@@ -67,11 +75,13 @@ NSW dominates crash records at **16.2K**, followed by Victoria (11.5K) and Queen
 - **Weekday crashes** (30,995) outnumber weekend crashes, suggesting commuter traffic as a major risk factor
 - Trend analysis shows a **notable decline** from peak crash years in the mid-1990s through to the 2020s — reflecting improved road safety measures
 
+## What Could Come Next
+- [ ] Add a map showing crash hotspots by region
+- [ ] Include weather data to see how conditions affect crashes
+- [ ] Break down fatal vs non-fatal crashes
+
 ## Author
 
 **Fathia Issa** — Data Analyst with a focus on turning raw data into clear, visual stories.
 [Connect with me on LinkedIn](https://www.linkedin.com/in/fathia-issa-9302b7276/)
 
-## License
-
-This project is for educational and portfolio purposes. The dataset is sourced from publicly available Australian road crash records.
